@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/241098789?s=200&v=4" width="200" alt="Mang Coder Logo">
+  <!-- <img src="https://avatars.githubusercontent.com/u/241098789?s=200&v=4" width="200" alt="Mang Coder Logo"> -->
 
   <h1> MANG CODER &lt;/&gt; </h1>
   <p><strong>Powered by Mamang Organization</strong></p>
