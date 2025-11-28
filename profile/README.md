@@ -34,7 +34,7 @@ The grind never changes, only the tools do.
 
 ### 📝 Useful resources - where can the community find docs? Is there anything else the community should know?
 
-We have useful resources, we have docs, but most importantly, **MANG CODER will fight & destroy [it-ftup](https://github.com/it-ftup)**
+Of course, We have useful resources, we have docs, but most importantly, **MANG CODER will fight & destroy [it-ftup](https://github.com/it-ftup)**
 
 
 
@@ -44,8 +44,15 @@ We use the best tools to plow the servers:
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TAILWIND">
+  <br>
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
+  
+  
 </div>
 
 
