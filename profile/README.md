@@ -38,7 +38,7 @@ Of course, We have useful resources, we have docs, but most importantly, **MANG 
 
 
 
-### 🛠️ Our Digital Farming Tools (Tech Stack)
+### 🪏 Our Digital Farming Tools (Tech Stack)
 
 We use the best tools to plow the servers:
 
