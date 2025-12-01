@@ -69,9 +69,10 @@ We use the best tools to plow the servers:
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=siocongs&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=MANG CODER Stats" alt="MANG CODER Stats" /> 
   -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siocongs&layout=compact&theme=radical" alt="Top Langs MANG CODER" />
-  <br>
+  <h1>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siocongs&layout=compact&theme=radical" alt="Top Langs MANG CODER" />
+    <br><br>
+  </h1>
   
---- 
   <sub>© 2025 MANG CODER - "Because we can do mighty things with the power of Markdown ΩΩ."</sub>
 </div>
