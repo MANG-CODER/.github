@@ -63,14 +63,15 @@ We use the best tools to plow the servers:
   It's the farmer game icon, hacked. It symbolizes our roots.
 - **What is "Mamang Organization"?**
   The parent entity.
-
----
+<br>
 
 <div align="center">
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=siocongs&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=MANG CODER Stats" alt="MANG CODER Stats" /> 
   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siocongs&layout=compact&theme=radical" alt="Top Langs MANG CODER" />
-  <br><br>
+  <br>
+  
+--- 
   <sub>© 2025 MANG CODER - "Because we can do mighty things with the power of Markdown ΩΩ."</sub>
 </div>
