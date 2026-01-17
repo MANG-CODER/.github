@@ -9,8 +9,8 @@
   </p>
 
   <p>
-    <a href="http://mangcoder.com">🌐 Website</a> •
-    <a href="mailto:mrwxyzero@gmail.com">📧 Email Us</a>
+    <a href="https://mangcoder.com">🌐 Website</a> •
+    <a href="mailto:mangcoder@engineer.com">📧 Email Us</a>
   </p>
 
   <img src="https://img.shields.io/badge/Cultivating-Code-green?style=for-the-badge&logo=leaf" alt="Cultivating Code">
