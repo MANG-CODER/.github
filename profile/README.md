@@ -13,8 +13,8 @@
     <a href="mailto:mangcoder@engineer.com">📧 Email Us</a>
   </p>
 
-  <img src="https://img.shields.io/badge/Cultivating-Code-green?style=for-the-badge&logo=leaf" alt="Cultivating Code">
-  <img src="https://img.shields.io/badge/Harvesting-Bugs-red?style=for-the-badge&logo=bug" alt="Harvesting Bugs">
+  <img src="https://img.shields.io/badge/Cultivating-Code-green?style=for-the-badge&logo=springboot" alt="Cultivating Code">
+  <img src="https://img.shields.io/badge/Harvesting-Bugs-red?style=for-the-badge&logo=bugcrowd" alt="Harvesting Bugs">
   <img src="https://img.shields.io/badge/Region-Indonesia-blue?style=for-the-badge&logo=google-earth" alt="Indonesia">
 </div>
 
@@ -70,7 +70,7 @@ We use the best tools to plow the servers:
   <img src="https://github-readme-stats.vercel.app/api?username=siocongs&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=MANG CODER Stats" alt="MANG CODER Stats" /> 
   -->
   <h1>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siocongs&layout=compact&theme=radical" alt="Top Langs MANG CODER" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vestiapani&layout=compact&theme=radical" alt="Top Langs MANG CODER" />
     <br><br>
   </h1>
   
